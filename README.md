@@ -6,7 +6,7 @@
 | Warning signs        |               |
 | Construction signs   |               |
 | Informational signs  |               |
-| 
+
 
 ### Regulatory signs
 
@@ -17,4 +17,4 @@
 ### Construction signs
 
 
-### Information signs
+### Informational signs
