@@ -1,3 +1,5 @@
 .DS_Store
 object-detection/dataset
 object-detection/output
+object-classification/dataset
+object-detection/archive
